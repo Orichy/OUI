@@ -1,6 +1,6 @@
 # OUI
 
-[![CI Status](https://img.shields.io/travis/pengxueyao@icloud.com/OUI.svg?style=flat)](https://travis-ci.org/pengxueyao@icloud.com/OUI)
+[![CI Status](https://img.shields.io/travis/Orichy/OUI.svg?style=flat)](https://travis-ci.org/Orichy/OUI)
 [![Version](https://img.shields.io/cocoapods/v/OUI.svg?style=flat)](https://cocoapods.org/pods/OUI)
 [![License](https://img.shields.io/cocoapods/l/OUI.svg?style=flat)](https://cocoapods.org/pods/OUI)
 [![Platform](https://img.shields.io/cocoapods/p/OUI.svg?style=flat)](https://cocoapods.org/pods/OUI)
@@ -22,7 +22,7 @@ pod 'OUI'
 
 ## Author
 
-pengxueyao@icloud.com, pengxueyao@icloud.com
+Orichy, Orichy
 
 ## License
 
