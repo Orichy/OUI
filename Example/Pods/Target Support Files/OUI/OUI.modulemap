@@ -1,0 +1,6 @@
+framework module OUI {
+  umbrella header "OUI-umbrella.h"
+
+  export *
+  module * { export * }
+}

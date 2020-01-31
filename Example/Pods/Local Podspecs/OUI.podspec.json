@@ -1,0 +1,22 @@
+{
+  "name": "OUI",
+  "version": "0.0.1",
+  "summary": "Views",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/pengxueyao@icloud.com/OUI",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "pengxueyao@icloud.com": "pengxueyao@icloud.com"
+  },
+  "source": {
+    "git": "https://github.com/pengxueyao@icloud.com/OUI.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "OUI/Classes/**/*"
+}
