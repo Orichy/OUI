@@ -1,0 +1,6 @@
+use_frameworks!
+target 'OUI_Tests' do
+  pod 'OUI', :path => '../'
+  
+  
+end
