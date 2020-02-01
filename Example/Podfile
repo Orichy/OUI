@@ -1,4 +1,6 @@
 use_frameworks!
+platform :ios, '10.0'
+
 target 'OUI_Tests' do
   pod 'OUI', :path => '../'
   
