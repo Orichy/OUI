@@ -16,7 +16,17 @@
     "tag": "0.0.1"
   },
   "platforms": {
-    "ios": "8.0"
+    "ios": "10.0"
   },
-  "source_files": "OUI/Classes/**/*"
+  "swift_versions": "4.0",
+  "source_files": "OUI/Classes/**/*",
+  "dependencies": {
+    "SnapKit": [
+      "~> 4.2.0"
+    ],
+    "pop": [
+      "~> 1.0.12"
+    ]
+  },
+  "swift_version": "4.0"
 }

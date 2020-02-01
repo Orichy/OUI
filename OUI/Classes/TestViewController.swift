@@ -6,6 +6,7 @@
 //
 
 import UIKit
+import SnapKit
 
 public class TestViewController: UIViewController {
 
@@ -13,11 +14,16 @@ public class TestViewController: UIViewController {
         super.viewDidLoad()
 
         testPod()
+        testPod2()
     }
     
     
     
     public func testPod() {
         print("测试下pod")
+    }
+    
+    public func testPod2() {
+        print("测试下pod2")
     }
 }

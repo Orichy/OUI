@@ -1,15 +1,26 @@
 PODS:
-  - OUI (0.0.1)
+  - OUI (0.0.1):
+    - pop (~> 1.0.12)
+    - SnapKit (~> 4.2.0)
+  - pop (1.0.12)
+  - SnapKit (4.2.0)
 
 DEPENDENCIES:
   - OUI (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - pop
+    - SnapKit
 
 EXTERNAL SOURCES:
   OUI:
     :path: "../"
 
 SPEC CHECKSUMS:
-  OUI: 1c43c40bbbf9a339e44b0fe98de9fbfbef9d8525
+  OUI: 830746fb8032e4b23c8af67af9de3387774a2e0b
+  pop: d582054913807fd11fd50bfe6a539d91c7e1a55a
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
 
 PODFILE CHECKSUM: dc7747f003e166db25694851f0bd19a20701c610
 
