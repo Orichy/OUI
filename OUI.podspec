@@ -29,7 +29,7 @@ TODO: Add long description of the pod here.
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '10.0'
-  s.swift_version = '4.0'
+  s.swift_version = '5.0'
   s.source_files = 'OUI/Classes/**/*'
   
   # s.resource_bundles = {
@@ -38,7 +38,7 @@ TODO: Add long description of the pod here.
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
-  s.dependency 'SnapKit',   '~> 4.2.0'
+  s.dependency 'SnapKit',   '~> 5.0.1'
   s.dependency 'pop',       '~> 1.0.12'
 
 end
